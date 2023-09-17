@@ -1,0 +1,6 @@
+
+name: timeseries_mc_env
+channels:
+  - defaults
+dependencies:
+  - numpy
