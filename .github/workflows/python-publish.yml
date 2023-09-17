@@ -35,5 +35,5 @@ jobs:
     - name: Publish package
       uses: pypa/gh-action-pypi-publish@27b31702a0e7fc50959f5ad993c78deac1bdfc29
       with:
-        user:AKJHA23
-        password:pypi-AgEIcHlwaS5vcmcCJGNmNjE2NmI2LWZlYTgtNGEzMC05YjM2LTA1NDE0NzFhODkwNgACKlszLCJkOWYyMWNlOC1lZWY5LTQ1NjYtYWFhNy02NjQ3NTUxY2U0YzEiXQAABiAZJzj-wzzNzVD9TSs7GREzGWE0TUzFYn9hyTxhPrdeyw
+        user: AKJHA23
+        password: pypi-AgEIcHlwaS5vcmcCJGNmNjE2NmI2LWZlYTgtNGEzMC05YjM2LTA1NDE0NzFhODkwNgACKlszLCJkOWYyMWNlOC1lZWY5LTQ1NjYtYWFhNy02NjQ3NTUxY2U0YzEiXQAABiAZJzj-wzzNzVD9TSs7GREzGWE0TUzFYn9hyTxhPrdeyw
